@@ -1,0 +1,57 @@
+financial_year,case_type,status,no_of_cases
+2013,Advance Pricing Arrangement,Balance brought forward,29
+2013,Advance Pricing Arrangement,Received,26
+2013,Advance Pricing Arrangement,Completed,-13
+2013,Advance Pricing Arrangement,Withdrawn / Rejected,-2
+2013,Mutual Agreement Procedure,Balance brought forward,11
+2013,Mutual Agreement Procedure,Received,3
+2013,Mutual Agreement Procedure,Completed,0
+2013,Mutual Agreement Procedure,Withdrawn / Rejected,-2
+2014,Advance Pricing Arrangement,Balance brought forward,40
+2014,Advance Pricing Arrangement,Received,14
+2014,Advance Pricing Arrangement,Completed,-12
+2014,Advance Pricing Arrangement,Withdrawn / Rejected,-3
+2014,Mutual Agreement Procedure,Balance brought forward,12
+2014,Mutual Agreement Procedure,Received,3
+2014,Mutual Agreement Procedure,Completed,-2
+2014,Mutual Agreement Procedure,Withdrawn / Rejected,-2
+2015,Advance Pricing Arrangement,Balance brought forward,39
+2015,Advance Pricing Arrangement,Received,20
+2015,Advance Pricing Arrangement,Completed,-16
+2015,Advance Pricing Arrangement,Withdrawn / Rejected,-2
+2015,Mutual Agreement Procedure,Balance brought forward,11
+2015,Mutual Agreement Procedure,Received,2
+2015,Mutual Agreement Procedure,Completed,-1
+2015,Mutual Agreement Procedure,Withdrawn / Rejected,-1
+2016,Advance Pricing Arrangement,Balance brought forward,41
+2016,Advance Pricing Arrangement,Received,18
+2016,Advance Pricing Arrangement,Completed,-10
+2016,Advance Pricing Arrangement,Withdrawn / Rejected,-8
+2016,Mutual Agreement Procedure,Balance brought forward,11
+2016,Mutual Agreement Procedure,Received,2
+2016,Mutual Agreement Procedure,Completed,-2
+2016,Mutual Agreement Procedure,Withdrawn / Rejected,-1
+2017,Advance Pricing Arrangement,Balance brought forward,41
+2017,Advance Pricing Arrangement,Received,17
+2017,Advance Pricing Arrangement,Completed,-10
+2017,Advance Pricing Arrangement,Withdrawn / Rejected,-6
+2017,Mutual Agreement Procedure,Balance brought forward,10
+2017,Mutual Agreement Procedure,Received,15
+2017,Mutual Agreement Procedure,Completed,-5
+2017,Mutual Agreement Procedure,Withdrawn / Rejected,-3
+2018,Advance Pricing Arrangement,Balance brought forward,42
+2018,Advance Pricing Arrangement,Received,20
+2018,Advance Pricing Arrangement,Completed,-20
+2018,Advance Pricing Arrangement,Withdrawn / Rejected,-2
+2018,Mutual Agreement Procedure,Balance brought forward,17
+2018,Mutual Agreement Procedure,Received,16
+2018,Mutual Agreement Procedure,Completed,-10
+2018,Mutual Agreement Procedure,Withdrawn / Rejected,-2
+2019,Advance Pricing Arrangement,Balance brought forward,40
+2019,Advance Pricing Arrangement,Received,21
+2019,Advance Pricing Arrangement,Completed,-15
+2019,Advance Pricing Arrangement,Withdrawn / Rejected,0
+2019,Mutual Agreement Procedure,Balance brought forward,21
+2019,Mutual Agreement Procedure,Received,14
+2019,Mutual Agreement Procedure,Completed,-10
+2019,Mutual Agreement Procedure,Withdrawn / Rejected,-3
